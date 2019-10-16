@@ -13,7 +13,10 @@ function Nav() {
       <Link className="navbar-brand" to="/books/5da1deb7de03f8918a5a3ae9">
         My Favorite Book
       </Link>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1764fbbbaf631891e9f4169f3b0fe7dd2ecd19ab
     </nav>
   );
 }
